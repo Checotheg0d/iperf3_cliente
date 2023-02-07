@@ -1,0 +1,49 @@
+  started at         Tue, 07 Feb 2023 16:53:29 GMT
+  bytes transmitted  27258117770
+  jitter (ms)        0.002241023184600009
+  started at         Tue, 07 Feb 2023 16:54:32 GMT
+  bytes transmitted  29098864470
+  jitter (ms)        0.0017493683487565046
+  avg cpu load       41.578171317078166%
+
+Average transmitted data in all sorts of networky formats:
+  bits per second      (bps)   23278788951.743626
+  Kilobits per second  (kbps)  23278788.951743625
+  Megabits per second  (Mbps)  23278.788951743623
+  KiloBytes per second (kB/s)  2841649.041960892
+  MegaBytes per second (MB/s)  2775.0478925399334
+  started at         Tue, 07 Feb 2023 16:56:52 GMT
+  bytes transmitted  31058178840
+  jitter (ms)        0.0011522387744854832
+  avg cpu load       44.6834181566362%
+
+Average transmitted data in all sorts of networky formats:
+  bits per second      (bps)   24846359208.941856
+  Kilobits per second  (kbps)  24846359.208941855
+  Megabits per second  (Mbps)  24846.359208941856
+  KiloBytes per second (kB/s)  3033002.833122785
+  MegaBytes per second (MB/s)  2961.91682922147
+  started at         Tue, 07 Feb 2023 22:22:40 GMT
+  bytes transmitted  19582007510
+  jitter (ms)        0.005743318835680245
+  avg cpu load       26.860473998777767%
+
+Average transmitted data in all sorts of networky formats:
+  bits per second      (bps)   15665369460.921139
+  Kilobits per second  (kbps)  15665369.460921139
+  Megabits per second  (Mbps)  15665.369460921138
+  KiloBytes per second (kB/s)  1912276.5455226
+  MegaBytes per second (MB/s)  1867.457563986914
+///////////////////////////////////////////////////////////
+Test completed:
+  started at         Tue, 07 Feb 2023 22:24:32 GMT
+  bytes transmitted  28061233590
+  jitter (ms)        0.0006640606942652509
+  avg cpu load       36.59734270073602%
+
+Average transmitted data in all sorts of networky formats:
+  bits per second      (bps)   22448757894.669476
+  Kilobits per second  (kbps)  22448757.894669477
+  Megabits per second  (Mbps)  22448.757894669478
+  KiloBytes per second (kB/s)  2740326.891439145
+  MegaBytes per second (MB/s)  2676.10047992104
